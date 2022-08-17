@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying web development;
-- 🌱 I’m currently learning HTML/CSS;
+- 🌱 I’m currently learning HTML/CSS and Python;
 - 👯 I'm looking to collaborate essentially on programming communities for women developers;
 - 🤔 I’m looking for help with HTML/CSS, JS, Python, Java and frameworks;
 - 💬 Ask me about C/C++, data structure, programming logic;
